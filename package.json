@@ -46,8 +46,10 @@
   ],
   "dependencies": {
     "@ant-design/icons": "^4.0.0",
+    "@ant-design/pro-layout": "^6.13.0",
     "@umijs/route-utils": "^1.0.33",
     "antd": "^4.8.0",
+    "axios": "^0.21.1",
     "classnames": "^2.2.6",
     "dva": "^2.4.0",
     "lodash": "^4.17.11",
@@ -56,8 +58,7 @@
     "prop-types": "^15.5.10",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "umi": "^3.2.14",
-    "umi-request": "^1.0.8"
+    "umi": "^3.2.14"
   },
   "devDependencies": {
     "@ant-design/pro-cli": "^1.0.18",
